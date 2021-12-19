@@ -1,0 +1,137 @@
+{
+    "Header": {
+
+        "title": "A Class Above The Others ",
+        "paragraph": "Executive Ship Management is the Preferred partner of the Industry leaders looking for the best innovative solutions in management of all types of vessels trading across the world."
+
+    },
+    "About": {
+        "paragraph": "At A K E MARINE BD LTD, we offer our clients various type of inspection services like Draft survey,  bunker survey, edible oil, general cargo, chemical products, tallying in discharge port, escort supply,  mobile crane inspection, forklift truck inspection, welding and pipeline inspection, hull inspection,  damage inspection and valuation and pre shipment inspection of various commodities and waste materials. we are an independent and esteemed inspection company in Bangladesh, offering you the very best specialists for all your quality and quantity verification needs, whether your company  manages various commodities such as fertilizer, wheat, food grain, lime stone, clinker, cement, raw  materials, maize, yellow corn, coal, mud, fly ash, Gypsum, sand, scrape material, various type of oil,  chemical products and bulk cargo.It is not only our experienced specialist inspectors who make us stand out from the crowd, but it is  our attention to customer care and details. We know that each client is an individual with specific  needs, and we will guarantee an eligible approach for each project on case by case basis.",
+        "Why": [
+            "Provide best possible Ship Management Services Prepared to respond to any kind of emergencies",
+            "Committed to support and add value for our customers",
+            "Maintain internationally recognized Management Standards",
+            "Constantly raise the bar and improve our Company’s performance"
+        ],
+        "Why2": [
+            "Social Responsibility",
+            "Environmental",
+            "Safety & Health",
+            "Public Privacy Policy"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-search",
+            "name": "Ship Inspection Services",
+            "text": "Independent and accurate ship inspection services at reach"
+        },
+        {
+            "icon": "fa fa-search",
+            "name": "Bunker & liquid chemical survey",
+            "text": "A K E is well experienced in agency service, whether it is for discharge cargo or delivering demo vessel at Chittagong. The team is always ready to render all services to the Principal. "
+        },
+        {
+            "icon": "fa fa-cloud",
+            "name": "Crew Management",
+            "text": "We are in the business of attracting, developing and retaining the best set of crew for you. Our management centres are supported by global manning offices to recruit skilled seafarers and coordinate all your crewing needs."
+        },
+        {
+            "icon": "fa fa-car",
+            "name": "Technical Management",
+            "text": "The best experience in technical management with tailor-made solutions."
+        },
+        {
+            "icon": "fa fa-ship",
+            "name": "Global Procurement Services",
+            "text": "We play a key role in supporting our customers’ vessels by focusing on the timely delivery of supplies and services that are value for money and compliant with regulatory and international requirements."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Ships Spare Customs Clearance at Chittagong, Mongla, Dhaka",
+            "text": "Ship Spare in transit for vessels calling at Chittagong Port or Mongla port or Payra port needs extra care once they arrive at Dhaka or Chittagong Airport. Shipowners/ spares suppliers need to have efficient shipping agents or protective agents to handle the ship spare, carry out required custom clearance and delivery at vessel within a short period of time. we are serving at Chittagong ( renamed Chattogram), Mongla and Dhaka. Reliability, efficiency and long term service relationship are our business policy in Bangladesh."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "Shah Alam",
+            "job": "CEO"
+        },
+        {
+            "img": "img/team/03.jpg",
+            "name": "Ishita Islam",
+            "job": "COO"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "MD. Muhaiminul Haque",
+            "job": "Director operation"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Tanvir Ahmed",
+            "job": "Software Engineer"
+        }
+    ],
+    "Contact": {
+        "address": "6 Floor,House #5, Road #2, Lane #2 Block -G,Halishohor Chittagong, Bagladesh.",
+        "phone": "+880 1677893476",
+        "email": "info@akemarinebd.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-ship",
+            "title": "Cruise & Passenger Vessel Management",
+            "text": "Lifetime care and support for your vessels"
+        },
+        {
+            "icon": "fa fa-ship",
+            "title": "LPG Vessel Management",
+            "text": "With many years of experience in managing LPG vessels, WSM provides efficient and comprehensive services for owners. "
+        },
+        {
+           "icon": "fa fa-ship",
+            "title": "Offshore Solutions",
+            "text": "We have the network, competence and experience to cater to your special needs from ship management of your offshore assets to provision of crew management in offshore manpower supply."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "OTHER EXPERTISE",
+            "text": "Executive Ship Management provides a holistic services solution to the New Age Ship Owner to smoothen all operations related activities before, during and post sailing."
+        }
+    ]
+}
